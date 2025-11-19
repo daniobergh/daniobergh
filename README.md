@@ -1,5 +1,8 @@
-## Hi there 👋
+Danielle is a second-year MA Clinical Psychology student at Teachers College, Columbia University, currently working as a Volunteer Research Assistant with the PREDiCTOR study in the MIND Lab at Mount Sinai. Dani graduated from Northern Arizona University in 2024 with her Bachelor of Science degree in Psychological Sciences and a minor in biology. While at NAU, Dani worked in the Quiet Ego and Well-Being Research Group with Heidi Wayment, Ph.D., completing research regarding emotion regulation, the quiet ego, and adverse childhood experiences. Additionally, Dani works part-time, remotely, with Dr. Chloe Haaz, who specializes in psychological and custody evaluations. She has many research interests but is predominantly inclined to work with anxiety-related and mood disorders in late adolescents and young adults, emphasizing the importance of emotion regulation. As Dani nears completion of her Master's degree, she plans to pursue a Ph.D. in Clinical Psychology to develop her research and clinical skills further. 
 
+- 📫 How to reach me: do2467@tc.columbia.edu or daniobergh@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: outside of her academic pursuits, Dani is an avid theatre goer, foodie, reader, and cat mom
 <!--
 **daniobergh/daniobergh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
